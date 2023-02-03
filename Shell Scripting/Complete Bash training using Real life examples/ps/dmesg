@@ -1,0 +1,2 @@
+[    1.196726] kernel: RAS: Correctable Errors collector initialized.
+[    5.215266] kernel: EXT4-fs (nvme0n1p2): re-mounted. Opts: errors=remount-ro. Quota mode: none.
